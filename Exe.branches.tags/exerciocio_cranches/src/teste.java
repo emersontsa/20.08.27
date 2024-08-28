@@ -9,8 +9,10 @@ public class Teste {
 
     // Método para exibir a mensagem
     public void exibirMensagem() {
+        mensagem = “private int idade”;
         System.out.println(mensagem);
     }
+    
 
     // Método principal
     public static void main(String[] args) {
